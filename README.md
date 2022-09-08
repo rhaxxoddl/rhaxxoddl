@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaxxoddl&show_icons=true&theme=radical&title_color=0019F4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaxxoddl&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhaxxoddl&show_icons=true&theme=radical&title_color=2049FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaxxoddl&theme=radical&title_color=2049FF&layout=compact" />
 </p>
 
 ## Skills
