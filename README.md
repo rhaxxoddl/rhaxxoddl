@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/42-000000?style=flat&logo=42Seoul&logoColor=FFFFFF"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhaxxoddl&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaxxoddl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhaxxoddl&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhaxxoddl&repo=convoychat" />
+</a>
 
 ## Skills
 
