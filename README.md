@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhaxxoddl&repo=github-readme-stats" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhaxxoddl&show_icons=true&theme=radical&title_color=0019F4" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhaxxoddl&repo=convoychat" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaxxoddl&layout=compact" />
 </a>
 
 ## Skills
