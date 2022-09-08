@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhaxxoddl&show_icons=true&theme=radical&title_color=0019F4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teo&show_icons=true&theme=radical&title_color=0019F4" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaxxoddl&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teo&layout=compact" />
 </a>
 
 ## Skills
